@@ -6,7 +6,7 @@
 </div>
   
 ### Experiência:  
-- 👩‍🏫 Sou professor dos cursos de Análise e Desenvolvimento de Sistemas, Gestão de Tecnologia da Informação e Ciência da Computação na Universidade Cruzeiro do Sul
+- 👩‍🏫 Sou professor dos cursos de **Análise e Desenvolvimento de Sistemas**, **Gestão de Tecnologia da Informação** e **Ciência da Computação** na Universidade Cruzeiro do Sul
 - 👩‍🏫 Atuei como professor de Física no Ensino Médio por 27 anos, trabalhando com as turmas de 1º ao 3º ano
 - 💻 Atualmente desenvolvo projetos voltados ao uso de tecnologias no ensino de ciências e matemática
   
