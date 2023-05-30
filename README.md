@@ -5,7 +5,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=msanches&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/msanches/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/msanches/msanches/blob/output/github-contribution-grid-snake.svg)
   
   
 🔭 Atualmente sou professor dos cursos de Análise e Desenvolvimento de Sistemas, Gestão de Tecnologia da Informação e Ciência da Computação
