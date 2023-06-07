@@ -11,9 +11,9 @@
 - 💻 Atualmente desenvolvo projetos voltados ao uso de tecnologias no ensino de ciências e matemática
   
 ### Ferramentas e Tecnologias:
- <div sytle="display:inline">
+<div sytle="display:inline">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"  width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width= 50px/>
-  </div> 
+</div> 
   
 ### Contatos:
 <div>
