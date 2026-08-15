@@ -1,11 +1,13 @@
 
 <p align="center"> <img src="./banner.png" alt="Marco Sanches - Professor, Pesquisador e Desenvolvedor" width="100%"> </p>
+ 
+# Olá, seja bem-vindo ao meu perfil GitHub 👋 
+
 <div> 
 <a href="https://github.com/msanches">
  <img height="180em" src="https://github-readme-stats-puce-gamma-40.vercel.app/api/top-langs/?username=msanches&layout=compact&langs_count=7&theme=dracula"/> 
  <img height="180em" src="https://github-readme-stats-puce-gamma-40.vercel.app/api?username=msanches&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
  </div>
-# Olá, seja bem-vindo ao meu perfil GitHub 👋 
 
 ### 👨‍🏫 Sobre mim
 Sou professor e pesquisador nas áreas de **Computação e Educação**, com atuação no Ensino Superior em cursos de** Ciência da Computação e Análise e Desenvolvimento de Sistemas**.
