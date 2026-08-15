@@ -1,10 +1,14 @@
-## Olá, boas vindas ao meu perfil GitHub 👋 
+## Olá, boas vindas ao meu perfil GitHub 👋
+
 <div>
   <a href="https://github.com/msanches">
+
     <img height="180em"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=msanches&layout=compact&langs_count=7&theme=dracula"/>
+         src="https://github-readme-stats-msanches.vercel.app/api/top-langs/?username=msanches&layout=compact&langs_count=7&theme=dracula"/>
+
     <img height="180em"
-         src="https://github-readme-stats.vercel.app/api?username=msanches&show_icons=true&theme=dracula&include_all_commits=true"/>
+         src="https://github-readme-stats-msanches.vercel.app/api?username=msanches&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
   </a>
 </div>
 
