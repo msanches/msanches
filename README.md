@@ -3,12 +3,6 @@
  
 # Olá, seja bem-vindo ao meu perfil GitHub 👋 
 
-<div> 
-<a href="https://github.com/msanches">
- <img height="180em" src="https://github-readme-stats-puce-gamma-40.vercel.app/api/top-langs/?username=msanches&layout=compact&langs_count=7&theme=dracula"/> 
- <img height="180em" src="https://github-readme-stats-puce-gamma-40.vercel.app/api?username=msanches&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
- </div>
-
 ### 👨‍🏫 Sobre mim
 Sou professor e pesquisador nas áreas de **Computação e Educação**, com atuação no Ensino Superior em cursos de** Ciência da Computação e Análise e Desenvolvimento de Sistemas**.
 
@@ -35,6 +29,13 @@ Além da docência, atuo em atividades de coordenação acadêmica, orientação
 <div sytle="display:inline">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"  width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width= 50px/>
 </div> 
+
+### 📊 Meu GitHub
+<div> 
+<a href="https://github.com/msanches">
+ <img height="180em" src="https://github-readme-stats-puce-gamma-40.vercel.app/api/top-langs/?username=msanches&layout=compact&langs_count=7&theme=dracula"/> 
+ <img height="180em" src="https://github-readme-stats-puce-gamma-40.vercel.app/api?username=msanches&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+ </div>
   
 ### 🌐 Contatos
 <div>
