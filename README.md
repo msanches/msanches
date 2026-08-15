@@ -1,15 +1,31 @@
-<h1> Olá, boas vindas ao meu perfil GitHub 👋 
+
 <p align="center"> <img src="./banner.png" alt="Marco Sanches - Professor, Pesquisador e Desenvolvedor" width="100%"> </p>
 <div> 
 <a href="https://github.com/msanches">
  <img height="180em" src="https://github-readme-stats-puce-gamma-40.vercel.app/api/top-langs/?username=msanches&layout=compact&langs_count=7&theme=dracula"/> 
  <img height="180em" src="https://github-readme-stats-puce-gamma-40.vercel.app/api?username=msanches&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
  </div>
+<h1> seja bem-vindo ao meu perfil GitHub 👋 
 
+### 👨‍🏫 Sobre mim
+Sou professor e pesquisador nas áreas de Computação e Educação, com atuação no Ensino Superior em cursos de Ciência da Computação e Análise e Desenvolvimento de Sistemas.
+Minha trajetória profissional integra ensino, pesquisa e desenvolvimento tecnológico, com interesse especial na aplicação da Computação e das Tecnologias Digitais em contextos educacionais.
+Desenvolvo estudos e projetos relacionados à Inteligência Artificial aplicada ao Ensino, Pensamento Computacional, Tecnologias Digitais, Ensino de Astronomia e desenvolvimento de soluções computacionais voltadas à Educação.
+Também possuo experiência de longa duração na Educação Básica, especialmente no Ensino de Física, área em que atuei por 27 anos.
+ 
 ### Experiência:  
-- 👩‍🏫 Sou professor dos cursos de **Análise e Desenvolvimento de Sistemas**, **Gestão de Tecnologia da Informação** e **Ciência da Computação** na Universidade Cruzeiro do Sul
-- 👩‍🏫 Atuei como professor de Física no Ensino Médio por 27 anos, trabalhando com as turmas de 1º ao 3º ano
-- 💻 Atualmente desenvolvo projetos voltados ao uso de tecnologias no ensino de ciências e matemática
+Atuo no Ensino Superior em disciplinas relacionadas à formação em Computação, entre elas:
+💻 Algoritmos e Pensamento Computacional
+🧠 Lógica de Programação
+👨‍💻 Programação
+⚙️ Engenharia de Software
+🗃️ Banco de Dados
+🌐 Desenvolvimento de Sistemas
+📚 Projetos Interdisciplinares
+🔬 Trabalho de Graduação Interdisciplinar – TGI
+🧪 Iniciação Científica e orientação de projetos acadêmicos
+
+Além da docência, atuo em atividades de coordenação acadêmica, orientação de estudantes e desenvolvimento de projetos educacionais e tecnológicos.
   
 ### Ferramentas e Tecnologias:
 <div sytle="display:inline">
