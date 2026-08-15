@@ -7,6 +7,7 @@
 Sou professor e pesquisador nas áreas de **Computação e Educação**, com atuação no Ensino Superior em cursos de** Ciência da Computação e Análise e Desenvolvimento de Sistemas**.
 
 Minha trajetória profissional integra ensino, pesquisa e desenvolvimento tecnológico, com interesse especial na aplicação da Computação e das Tecnologias Digitais em contextos educacionais.
+
 Desenvolvo estudos e projetos relacionados à **Inteligência Artificial aplicada ao Ensino, Pensamento Computacional, Tecnologias Digitais, Ensino de Astronomia e desenvolvimento de soluções computacionais voltadas à Educação.**
 
 Também possuo experiência de longa duração na Educação Básica, especialmente no Ensino de Física, área em que atuei por 27 anos.
@@ -24,11 +25,6 @@ Atuo no Ensino Superior em disciplinas relacionadas à formação em Computaçã
 - 🧪 Iniciação Científica e orientação de projetos acadêmicos
 
 Além da docência, atuo em atividades de coordenação acadêmica, orientação de estudantes e desenvolvimento de projetos educacionais e tecnológicos.
-  
-### 🛠️ Tecnologias e Ferramentas
-<div sytle="display:inline">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"  width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width= 50px/>
-</div> 
 
 ### 📊 Meu GitHub
 <div> 
@@ -37,6 +33,11 @@ Além da docência, atuo em atividades de coordenação acadêmica, orientação
  <img height="180em" src="https://github-readme-stats-puce-gamma-40.vercel.app/api?username=msanches&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
  </div>
   
+### 🛠️ Tecnologias e Ferramentas
+<div sytle="display:inline">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"  width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width= 50px/>
+</div> 
+
 ### 🌐 Contatos
 <div>
 <a href="[https://www.youtube.com/seu-canal-youtube-aqui](https://www.youtube.com/marcoantonio365)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
