@@ -1,3 +1,11 @@
+<p align="center"> <img src="./banner.png" alt="Marco Sanches - Professor, Pesquisador e Desenvolvedor" width="100%"> </p>
+
+<h1 align="center">Olá, seja bem-vindo ao meu perfil GitHub 👋</h1>
+
+<p align="center"> <b>Professor • Coordenador • Pesquisador • Desenvolvedor</b> </p>
+
+<p align="center"> Computação • Educação • Inteligência Artificial • Astronomia </p>
+
 <h1> Olá, boas vindas ao meu perfil GitHub 👋 
 <div> 
 <a href="https://github.com/msanches">
