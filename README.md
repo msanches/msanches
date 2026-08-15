@@ -1,13 +1,9 @@
-## Olá, boas vindas ao meu perfil GitHub 👋
-
-<div>
-  <a href="https://github.com/msanches">
-    <img height="180em"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=msanches&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180em"
-         src="https://github-readme-stats.vercel.app/api?username=msanches&show_icons=true&theme=dracula&include_all_commits=true"/>
-  </a>
-</div>
+## Olá, boas vindas ao meu perfil GitHub 👋 
+<div> 
+<a href="https://github.com/msanches">
+ <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=msanches&layout=compact&langs_count=7&theme=dracula"/> 
+ <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=msanches&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+ </div>
   
 ### Experiência:  
 - 👩‍🏫 Sou professor dos cursos de **Análise e Desenvolvimento de Sistemas**, **Gestão de Tecnologia da Informação** e **Ciência da Computação** na Universidade Cruzeiro do Sul
