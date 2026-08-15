@@ -11,7 +11,6 @@
 
   </a>
 </div>
-</div>
 
 ### Experiência:  
 - 👩‍🏫 Sou professor dos cursos de **Análise e Desenvolvimento de Sistemas**, **Gestão de Tecnologia da Informação** e **Ciência da Computação** na Universidade Cruzeiro do Sul
