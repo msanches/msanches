@@ -4,7 +4,7 @@
 # Olá, seja bem-vindo ao meu perfil GitHub 👋 
 
 ### 👨‍🏫 Sobre mim
-Sou professor e pesquisador nas áreas de **Computação e Educação**, com atuação no Ensino Superior em cursos de** Ciência da Computação e Análise e Desenvolvimento de Sistemas**.
+Sou professor e pesquisador nas áreas de **Computação e Educação**, com atuação no Ensino Superior em cursos de **Ciência da Computação e Análise e Desenvolvimento de Sistemas**.
 
 Minha trajetória profissional integra ensino, pesquisa e desenvolvimento tecnológico, com interesse especial na aplicação da Computação e das Tecnologias Digitais em contextos educacionais.
 
