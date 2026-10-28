@@ -62,3 +62,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### PacMan
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/msanches/msanches/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/msanches/msanches/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/msanches/msanches/output/pacman-contribution-graph.svg">
+</picture>
+
+<!-- https://dev.to/abozanona/elevate-your-github-profile-with-a-custom-pac-man-contribution-graph-1l27 
+https://github.com/marketplace/actions/generate-pacman-game-from-github-contribution-grid#galaga-preview
+-->
