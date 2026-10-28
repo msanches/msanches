@@ -46,7 +46,13 @@ Além da docência, atuo em atividades de coordenação acadêmica, orientação
 <a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/marco-antonio-sanches-anast%C3%A1cio-601b9123/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+<!--
+📊 Linguagens nos meus repositórios
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msanches&layout=normal&langs_count=6&custom_title=Linguagens%20mais%20usadas&bg_color=0D0618&title_color=C084FC&text_color=E9D5FF&border_color=A855F7&hide_border=true" alt="Gráfico das linguagens mais usadas nos repositórios públicos de Marco Sanches">
+</div>
+-->
 
 <!--
 **msanches/msanches** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
