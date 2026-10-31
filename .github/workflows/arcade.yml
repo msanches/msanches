@@ -1,0 +1,66 @@
+
+name: Arcade - Rotacao Semanal
+
+on:
+  schedule:
+    # Segunda-feira, 00h15 em Sao Paulo (UTC-3)
+    - cron: "15 3 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  arcade:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Gerar todos os jogos
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: msanches
+          games: 'pacman,puzzle-bobble,bomberman,galaga,breakout,minesweeper'
+          hide_month_labels: 'false'
+
+      - name: Selecionar jogo da semana
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          GAMES=(
+            pacman
+            puzzle-bobble
+            bomberman
+            galaga
+            breakout
+            minesweeper
+          )
+
+          # Inicio do ciclo: 02/11/2026
+          START=$(date -u -d "2026-11-02 00:00 UTC" +%s)
+          NOW=$(date -u +%s)
+
+          WEEKS=$(( (NOW - START) / 604800 ))
+          if [ "$WEEKS" -lt 0 ]; then
+            WEEKS=0
+          fi
+
+          INDEX=$(( WEEKS % ${#GAMES[@]} ))
+          GAME="${GAMES[$INDEX]}"
+
+          echo "Jogo da semana: $GAME"
+
+          cp "dist/${GAME}-contribution-graph.svg" \
+             "dist/arcade-atual.svg"
+
+          cp "dist/${GAME}-contribution-graph-dark.svg" \
+             "dist/arcade-atual-dark.svg"
+
+      - name: Publicar animacoes
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
