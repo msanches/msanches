@@ -45,15 +45,6 @@ Além da docência, atuo em atividades de coordenação acadêmica, orientação
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"  width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width= 50px/>
 </div> 
 
-### 🌐 Contatos
-<div>
-<a href="[https://www.youtube.com/seu-canal-youtube-aqui](https://www.youtube.com/marcoantonio365)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/netfisica" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:marcosanches.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/marco-antonio-sanches-anast%C3%A1cio-601b9123/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
-
 ### 🕹️ Meu GitHub em modo Arcade
 
 <picture>
@@ -68,9 +59,17 @@ Além da docência, atuo em atividades de coordenação acadêmica, orientação
     src="https://raw.githubusercontent.com/msanches/msanches/output/arcade-atual.svg">
 </picture>
 
+### 🌐 Contatos
+<div>
+<a href="[https://www.youtube.com/seu-canal-youtube-aqui](https://www.youtube.com/marcoantonio365)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/netfisica" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:marcosanches.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/marco-antonio-sanches-anast%C3%A1cio-601b9123/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 
 <!--
-
+Arcade jogos
 ### PacMan
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/msanches/msanches/output/pacman-contribution-graph-dark.svg">
