@@ -27,12 +27,19 @@ Atuo no Ensino Superior em disciplinas relacionadas à formação em Computaçã
 Além da docência, atuo em atividades de coordenação acadêmica, orientação de estudantes e desenvolvimento de projetos educacionais e tecnológicos.
 
 ### 📊 Meu GitHub
+<div align="left">
+  <!-- Alinhamento à esquerda (div align="left") -->
+  <!-- Tamanho ajustado: 500px de largura e height="auto" mantém a proporção -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msanches&layout=normal&langs_count=6&custom_title=Linguagens%20mais%20usadas&bg_color=0D0618&title_color=C084FC&text_color=E9D5FF&border_color=A855F7&hide_border=true" alt="Gráfico das linguagens mais usadas nos repositórios públicos de Marco Sanches" width="400" height="auto">
+</div>
+
+<!--
 <div> 
 <a href="https://github.com/msanches">
  <img height="180em" src="https://github-readme-stats-puce-gamma-40.vercel.app/api/top-langs/?username=msanches&layout=compact&langs_count=7&theme=dracula"/> 
  <img height="180em" src="https://github-readme-stats-puce-gamma-40.vercel.app/api?username=msanches&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
  </div>
-  
+  -->
 ### 🛠️ Tecnologias e Ferramentas
 <div sytle="display:inline">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"  width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width= 50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width= 50px/>
@@ -67,13 +74,26 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ### PacMan
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/msanches/msanches/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/msanches/msanches/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/msanches/msanches/output/pacman-contribution-graph.svg">
 </picture>
+-->
+
+### 🚀 Galaga Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/msanches/msanches/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/msanches/msanches/output/galaga-contribution-graph.svg">
+  <img alt="Galaga Contribution Graph"
+    src="https://raw.githubusercontent.com/msanches/msanches/output/galaga-contribution-graph.svg">
+</picture>
+
 
 <!-- https://dev.to/abozanona/elevate-your-github-profile-with-a-custom-pac-man-contribution-graph-1l27 
 https://github.com/marketplace/actions/generate-pacman-game-from-github-contribution-grid#galaga-preview
