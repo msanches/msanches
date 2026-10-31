@@ -53,6 +53,22 @@ Além da docência, atuo em atividades de coordenação acadêmica, orientação
 <a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/marco-antonio-sanches-anast%C3%A1cio-601b9123/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+
+### 🕹️ Meu GitHub em modo Arcade
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/msanches/msanches/output/arcade-atual-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/msanches/msanches/output/arcade-atual.svg">
+  <img
+    alt="Jogo Arcade - GitHub Contributions"
+    src="https://raw.githubusercontent.com/msanches/msanches/output/arcade-atual.svg">
+</picture>
+
+
 <!--
 
 ### PacMan
@@ -61,7 +77,7 @@ Além da docência, atuo em atividades de coordenação acadêmica, orientação
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/msanches/msanches/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/msanches/msanches/output/pacman-contribution-graph.svg">
 </picture>
--->
+
 
 ### 🚀 Galaga Contribution Graph
 
@@ -118,3 +134,4 @@ Além da docência, atuo em atividades de coordenação acadêmica, orientação
   <img alt="puzzle-bobble contribution graph"
     src="https://raw.githubusercontent.com/msanches/msanches/output/puzzle-bobble-contribution-graph.svg">
 </picture>
+-->
