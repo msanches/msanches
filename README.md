@@ -54,26 +54,6 @@ Além da docência, atuo em atividades de coordenação acadêmica, orientação
 </div>
 
 <!--
-📊 Linguagens nos meus repositórios
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msanches&layout=normal&langs_count=6&custom_title=Linguagens%20mais%20usadas&bg_color=0D0618&title_color=C084FC&text_color=E9D5FF&border_color=A855F7&hide_border=true" alt="Gráfico das linguagens mais usadas nos repositórios públicos de Marco Sanches">
-</div>
--->
-
-<!--
-**msanches/msanches** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 ### PacMan
 <picture>
@@ -94,7 +74,47 @@ Here are some ideas to get you started:
     src="https://raw.githubusercontent.com/msanches/msanches/output/galaga-contribution-graph.svg">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/msanches/msanches/output/minesweeper-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/msanches/msanches/output/minesweeper-contribution-graph.svg">
+  <img alt="minesweeper contribution graph"
+    src="https://raw.githubusercontent.com/msanches/msanches/output/minesweeper-contribution-graph.svg">
+</picture>
 
-<!-- https://dev.to/abozanona/elevate-your-github-profile-with-a-custom-pac-man-contribution-graph-1l27 
-https://github.com/marketplace/actions/generate-pacman-game-from-github-contribution-grid#galaga-preview
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/msanches/msanches/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/msanches/msanches/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/msanches/msanches/output/pacman-contribution-graph.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/msanches/msanches/output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/msanches/msanches/output/breakout-contribution-graph.svg">
+  <img alt="breakout contribution graph"
+    src="https://raw.githubusercontent.com/msanches/msanches/output/breakout-contribution-graph.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/msanches/msanches/output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/msanches/msanches/output/bomberman-contribution-graph.svg">
+  <img alt="bomberman contribution graph"
+    src="https://raw.githubusercontent.com/msanches/msanches/output/bomberman-contribution-graph.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/msanches/msanches/output/puzzle-bobble-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/msanches/msanches/output/puzzle-bobble-contribution-graph.svg">
+  <img alt="puzzle-bobble contribution graph"
+    src="https://raw.githubusercontent.com/msanches/msanches/output/puzzle-bobble-contribution-graph.svg">
+</picture>
