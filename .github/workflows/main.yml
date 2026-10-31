@@ -1,5 +1,5 @@
 
-name: Generate Arcade Contribution Graphs
+name: Generate Arcade Games
 
 on:
   schedule:
@@ -13,18 +13,19 @@ jobs:
   generate:
     permissions:
       contents: write
+
     runs-on: ubuntu-latest
     timeout-minutes: 20
 
     steps:
-      - name: Generate arcade games
+      - name: Generate all arcade games
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: msanches
-          games: 'pacman,galaga,breakout,bomberman,minesweeper,puzzle-bobble'
+          games: 'pacman,galaga,breakout,bomberman,puzzle-bobble,minesweeper'
           hide_month_labels: 'false'
 
-      - name: Publish SVG animations
+      - name: Publish SVGs
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
