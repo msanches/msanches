@@ -3,9 +3,15 @@ name: Arcade - Rotacao Semanal
 
 on:
   schedule:
-    # Segunda-feira, 00h15 em Sao Paulo (UTC-3)
     - cron: "15 3 * * 1"
+
   workflow_dispatch:
+
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/arcade.yml"
 
 permissions:
   contents: write
